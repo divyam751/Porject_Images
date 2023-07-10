@@ -20,4 +20,5 @@
 
 
 #Voya
-![bg](https://github.com/divyam751/Porject_Images/assets/125983433/bc0f7937-e6c2-4cad-ae3d-0da947a1f318)
+
+![Screenshot 2023-07-10 160807](https://github.com/divyam751/Porject_Images/assets/125983433/de30aee0-b6fc-47e1-bcba-229e7538b674)
